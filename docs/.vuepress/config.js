@@ -31,6 +31,11 @@ module.exports = {
                 collapsable: false,
                 children: [
                     '/h5-docs/',
+                    {
+                        title: 'test',
+                        collapsable: false,
+                        path: '/h5-docs/test'
+                    }
                 ]
             }
         ],
