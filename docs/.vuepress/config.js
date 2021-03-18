@@ -1,9 +1,9 @@
 module.exports = {
     host: '0.0.0.0',
-    base: '/canvas/',
+    base: '/',
     title: '编排系统开发文档',
     description: '编排系统开发文档',
-    dest: 'docs/.vuepress/canvas',
+    dest: 'docs/.vuepress/docs',
     head: [
         ['link', { rel: 'icon', type: "image/jpg", href: '/images/1.jpg' }] // 头部网址图标
     ],
